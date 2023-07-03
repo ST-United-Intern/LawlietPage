@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.navlist ul{
+    list-style: none;
+    display: flex;
+}
+
+.navlist ul li a{
+    transition: all .55s ease;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Poppins'
+}
+
+.navlist ul li i{
+    transition: all .55s ease;
+    font-size: 14px;
+    margin-left: 150px;
+}
