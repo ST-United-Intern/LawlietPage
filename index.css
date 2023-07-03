@@ -13,11 +13,12 @@
 .wrap-body{
     display: flex;
     flex-direction: column;
-    height: 700px;
     margin-left: 210px;
 
 }
-
+.provider{
+    float: right;
+}
 .notifice-layout{
     background-color: #E7F6FF;
     width: 434px;
@@ -54,11 +55,16 @@
 }
 .wrap-three{
     margin-top: 30px;
-    width: 190px;
+    width: 150px;
     height: 80px;
     background-color: #193E6C;
     color: #FCFCFC;
     display: flex;
+    border-radius: 15px;
+}
+
+.bts-img{
+    margin-top: 100px;
 }
 
 .test-top{

@@ -137,6 +137,10 @@
     margin-right: 70px;
 } */
 
+.provider{
+    float: right;
+    display: block;
+}
 .bx-text{
 }
 .bx-text >P{
